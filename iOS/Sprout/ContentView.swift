@@ -27,7 +27,6 @@ struct ContentView: View {
                                         .foregroundStyle(.secondary)
                                 }
                                 Spacer()
-                                Text(None == nil ? "" : "")
                             }
                         }
                         .accessibilityIdentifier("row_\(item.plantName)")

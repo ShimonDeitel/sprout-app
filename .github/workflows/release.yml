@@ -11,7 +11,7 @@ jobs:
     env:
       APP_NAME: Sprout
       SCHEME: Sprout
-      BUNDLE_ID: com.shimondeitel.sproutcare
+      BUNDLE_ID: com.shimondeitel.sprout
       TEAM_ID: W7Q885Q59C
       SIGN_IDENTITY_SHA1: 28783A84B07D8DFC5FCF311F7B4D7FB46594C728
       APP_ID: ""

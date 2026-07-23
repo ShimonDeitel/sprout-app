@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: SproutTests
-      - path: Sprout.storekit
     dependencies:
       - target: Sprout
     settings:
